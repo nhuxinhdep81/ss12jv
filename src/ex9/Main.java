@@ -5,7 +5,7 @@ public class Main {
         Vehicle car = new Car("xe oto");
         Vehicle bike = new Bike("xe dap");
         Vehicle bus = new Bus("xe bus", 28);
-        Vehicle airplane = new AirPlane("Máy bay", 2005);
+        Vehicle airplane = new AirPlane("may bay", 2005);
 
         car.move();
         car.sound();
